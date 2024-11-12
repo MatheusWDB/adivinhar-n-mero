@@ -1,4 +1,4 @@
-# Adivinhar um número aleatório
+# Adivinhe o número
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusWDB/adivinhar-numero/blob/main/LICENSE) 
 
 # Sobre o projeto
