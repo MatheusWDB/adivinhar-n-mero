@@ -3,9 +3,11 @@
 
 # Sobre o projeto
 
+https://matheuswdb.github.io/adivinhar-numero/
+
 A aplicação foi construída durante o curso **Lógica de programação: mergulhe em programação com JavaScript**, curso organizado e disponibilizado gratuitamente durante a **Imersão Back-end** pela [Alura](https://www.alura.com.br/ "Site da Alura").
 
-A aplicação consiste em um jogo de adivinhar um número aleatório entre 1 e um número a ser estabelecido.
+Consiste em um jogo de adivinhar um número aleatório entre 1 e um número a ser estabelecido.
 
 ## Layout web
 ![image](https://github.com/user-attachments/assets/a9fd4590-f4f3-4557-b8b9-f52b4dc72db3)
